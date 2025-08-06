@@ -345,10 +345,10 @@ memory:
 #     #   temperature: 0.1
 webSearch:
   # Search Provider Configuration
-  serperApiKey: "${CUSTOM_SERPER_API_KEY}"
+  serperApiKey: "${SERPER_API_KEY}"
   
   # Scraper Configuration
-  firecrawlApiKey: "${CUSTOM_FIRECRAWL_API_KEY}"
+  firecrawlApiKey: "${FIRECRAWL_API_KEY}"
   
   # Reranker Configuration
-  jinaApiKey: "${CUSTOM_JINA_API_KEY}"
+  jinaApiKey: "${JINA_API_KEY}"
